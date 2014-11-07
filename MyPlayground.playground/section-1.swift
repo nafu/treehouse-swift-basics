@@ -24,3 +24,15 @@ var greeting = "Hello, " + modernProgrammingLanguage
 
 str = "Hello, "
 greeting = str + modernProgrammingLanguage
+
+// define constants
+let programmingLanguage = "Swift"
+
+// cannot change
+// programmingLanguage = "Objective-C"
+
+// explicit type
+var string : String = "Hello, String"
+
+// implicit type String or inferred type String
+var implicitString = string
