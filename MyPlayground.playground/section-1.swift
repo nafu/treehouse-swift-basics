@@ -36,3 +36,13 @@ var string : String = "Hello, String"
 
 // implicit type String or inferred type String
 var implicitString = string
+
+// display the values of variables or constants
+print("to build an iPhone app we need to learn Swift")
+// print out values + a new line
+println(modernProgrammingLanguage)
+println(programmingLanguage)
+
+// print out string and variable by including a variable inside a string
+println("to build an iPhone app we need to learn \(modernProgrammingLanguage)")
+greeting = "\(str) \(modernProgrammingLanguage)"
